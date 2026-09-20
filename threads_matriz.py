@@ -2,7 +2,6 @@ import threading
 import random
 import time
 
-# Altere N para 300, 600 ou 1000 conforme o teste
 N = 300
 THREADS = 4
 

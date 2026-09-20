@@ -1,8 +1,7 @@
 import random
 import time
 
-# Altere N para 300, 600 ou 1000 conforme o teste
-N = 300
+N = 1000
 
 A = [[random.random() for _ in range(N)] for _ in range(N)]
 B = [[random.random() for _ in range(N)] for _ in range(N)]

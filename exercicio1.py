@@ -6,7 +6,7 @@ comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 size = comm.Get_size()
 
-N = 300
+N = 1000
 
 A = None
 B = None
